@@ -3,8 +3,8 @@ dependencies:
   - python=3.9
   - pip
   - pip:
-    - pandas=1.5.*
-    - numpy=1.23.*
-    - seaborn=0.12.*
-    - jupyterlab=3.4.*
+    - pandas==1.5.*
+    - numpy==1.23.*
+    - seaborn==0.12.*
+    - jupyterlab==3.4.*
     - -e .
