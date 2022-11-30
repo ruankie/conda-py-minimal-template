@@ -1,3 +1,6 @@
+[![GitHub Repo stars](https://img.shields.io/github/stars/ruankie/conda-py-minimal-template)](https://github.com/ruankie/conda-py-minimal-template)
+[![GitHub file size in bytes](https://img.shields.io/github/size/ruankie/conda-py-minimal-template)](https://github.com/ruankie/conda-py-minimal-template)
+
 # conda-py-minimal-template
 Minimal template with the essentials for quickly setting up new python projects. Includes a simple folder structure and a conda environment for isolated dependency management.
 
